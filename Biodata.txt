@@ -6,3 +6,6 @@ Hobby	: Bernafas ^,^
 
 Nama	: Alif Naufal Hakim
 NPM	: 140810160029
+
+Nama	: Naufal
+NPM	: 33

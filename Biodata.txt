@@ -1,2 +1,5 @@
 Nama	: Muhammad Rifqy Aulia Akbar
 NPM	: 140810160055
+
+Nama	: Alif Naufal Hakim
+NPM	: 140810160029

@@ -2,3 +2,4 @@ Nama	: Muhammad Rifqy Aulia Akbar
 NPM	: 140810160055
 TTL	: Bandung, 28 Februari 1998
 JK	: Laki - laki
+Hobby	: Bernafas ^,^
